@@ -1,138 +1,28 @@
-
-header{
+.diva{
+    height: 800px;
     background-image: url('/images/Banner\ Image.png');
-    background-size: auto;
     background-repeat: no-repeat;
-    background-position: center;
- 
-}
-.hi{
-    color: #F00;
-text-align: center;
-font-size: 88px;
-font-weight: 700;
-
-}
-.hiv{
-    color: #F00;
-text-align: center;
-font-size: 24px;
-font-weight: 500;
-}
-
-.hiii{
-    color: #070211;
-text-align: center;
-font-size: 48px;
-font-weight: 700;
-}
-.picu{
-   margin: 0 450px;
-}
-.kuu{
-    color: red;
-font-size: 64px;
-font-weight: 900;
-letter-spacing: 7.04px;
-}
-.puu{
-    color:red;
-font-size: 18px;
-font-weight: 400;
-
-}
-.sss{
-   text-align: center;
-}
-
-
-.place{
-    color: #070211;
-font-family: Inter;
-font-size: 32px;
-font-style: normal;
-font-weight: 600;
-line-height: 56px;
-text-transform: capitalize;
-}
-.ddd{
-    color: #F00;
-text-align: center;
-font-family: Inter;
-font-size: 32px;
-font-style: normal;
-font-weight: 600;
-line-height: 56px; /* 175% */
-text-transform: capitalize;
-}
-
-.sss{
-    margin: 0 140px;
-    border-radius: 16px;
-background: rgba(255, 0, 0, 0.05)
-}
-.mmm{
-    transition: 0.3s;
-}
-
-.email{
-    margin: 0 140px;
-    border-radius: 16px;
-background: rgba(255, 0, 0, 0.05);
-}
-#kkk{
-    color: #070211;
-text-align: center;
-font-size: 48px;
-font-style: normal;
-font-weight: 900;
-line-height: normal;
-text-transform: capitalize;
-margin: 0 270px;
-}
-#mmm{
-    color: rgba(7, 2, 17, 0.60);
-text-align: center;
-font-family: Inter;
-font-size: 20px;
-font-style: normal;
-font-weight: 400;
-line-height: 32px; /* 160% */
-margin: 0 212px;
-}
-#nnn{
-    margin: 80px 300px 0 450px ;
+    background: linear-gradient();}
     
+.head1{
+    color: #FFF;
+text-align: center;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding-top: 150px;
 }
-.search{
-    width: 330px;
-    float: left;
-    margin-left: 370px;
-}
-.btn-4{
-    width: 100px;
-    height: 40px;
-    border: 2px solid  #000;
-    margin-top: 18px;
-    color: #fff;
-    font-size: 15px;
-    border-bottom-right-radius:5px ;
-    border-top-right-radius:5px ;
-    border-radius: 0px 50px 50px 0px;
-background: #F00;
-}
-.srch{
 
-    width: 230px;
-    height: 40px;
-    background: transparent;
-    border: 1px solid black;
-    margin-top: 18px;
-    color: #000;
-    border-right: none;
-    font-size: 16px;
-    float: left;
-    padding: 10px;
-    border-bottom-left-radius: 5px;
-    border-top-left-radius: 5px;
+
+.head2{color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px; /* 131.944% */
+    margin-top: 20px;
+    margin-right: 400px;
+    margin-left: 400px;
+    opacity: 1.8;
+
 }
