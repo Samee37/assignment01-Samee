@@ -26,3 +26,33 @@ padding-top: 150px;
     opacity: 1.8;
 
 }
+.off{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.holiday{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.all{
+    color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.happ{
+    margin-left: 200px;
+}
